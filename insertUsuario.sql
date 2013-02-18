@@ -29,4 +29,4 @@ INSERT INTO dbo.seg_UsuarioWS (
 	/* Salt - nvarchar(60) */ N'NHtNmxo=',
 	/* CompaniaID - int */2,
 	/* TipoAccesoID - int */ 1,
-	/* Estado - bit */ 1 ) 
+	/* Estado - bit */ 2 ) 
