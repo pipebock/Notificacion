@@ -15,4 +15,4 @@ CREATE TABLE [dbo].[BUS_LogSolicitudEmision](
 
 GO
 
-
+Nueva 2
